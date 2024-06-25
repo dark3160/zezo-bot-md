@@ -23,6 +23,8 @@ global.wm = '➳ᴹᴿ᭄𝒁𝒆𝒛𝒐➳ᴹᴿ᭄';
 global.titulowm = '☾︎ 𝒁𝒆𝒛𝒐 𝑩𝒐𝒕 ☽︎';
 global.titulowm2 = `☾︎ 𝒁𝒆𝒛𝒐 𝑩𝒐𝒕 ☽︎`
 global.igfg = '☾︎ 𝒁𝒆𝒛𝒐 𝑩𝒐𝒕 ☽︎';
+global.rwait ='⌛'; 
+global.done ='✅'; 
 global.wait = '*انتظر جاري التحميل....*\n*قـنـاة الـمـطـور لـمـعـرفـة كـل جـديـد*\n༺ https://whatsapp.com/channel/0029Vaflefp4Y9ljqmqllP3a ༻';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
