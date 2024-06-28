@@ -606,8 +606,8 @@ setInterval(async () => {
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
   const bio = `البوت شغال بواسطه زيزو :\n\n ${uptime}`;
-  await conn.updateProfileStatus(bio).catch((_) => _);
-}, 60000);
+  /*await conn.updateProfileStatus(bio).catch((_) => _);
+}, 60000);*/
 function clockString(ms) {
   const d = isNaN(ms) ? '--' : Math.floor(ms / 86400000);
   const h = isNaN(ms) ? '--' : Math.floor(ms / 3600000) % 24;
