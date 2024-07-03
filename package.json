@@ -9,12 +9,12 @@
     "src": "src",
     "plugins": "plugins"
   },
-  "scripts": {
+    "scripts": {
     "start": "node index.js",
     "qr": "node index.js qr",
     "code": "node index.js code",
     "test": "node test.js",
-    "test2": "nodemon index.js",
+    "test2": "nodemon index.js", 
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
@@ -31,7 +31,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "firebase-admin": "^12.0.0",
+    "firebase-admin": "^12.0.0", 
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^4.2.4",
     "@brandond/findthelyrics": "^2.0.5",
@@ -47,7 +47,6 @@
     "awesome-phonenumber": "^2.68.0",
     "axios": "^1.1.3",
     "body-parser": "^1.20.2",
-    "canvas": "^2.9.3", 
     "cfonts": "^2.10.0",
     "chalk": "^5.0.0",
     "cheerio": "^1.0.0-rc.10",
