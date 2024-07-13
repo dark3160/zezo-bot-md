@@ -7,25 +7,25 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "*『🔥┇zezo-bot』*"
+global.botnumber = "*『🔥┇𝐑𝐈𝐌𝗨𝐑𝗨』*"
 global.confirmCode = ""
 
-global.owner = [['201508628077', '➳ᴹᴿ᭄𝒁𝒆𝒛𝒐➳ᴹᴿ᭄', true], 
+global.owner = [['201098956800', '𝐃𝐀𝐑𝐊 𖤐', true], 
 ];
 
-global.suittag = ['201508628077'];
-global.prems = ['201508628077','201228996990'];
+global.suittag = ['201098956800'];
+global.prems = ['201508628077','201098956800'];
 
-global.packname = '☾︎ 𝒁𝒆𝒛𝒐 𝑩𝒐𝒕 ☽︎';
-global.author = '✩𝒁𝒆𝒛𝒐 𝑩𝒐𝒕☆';
+global.packname = '☾︎ 𝐑𝐈𝐌𝗨𝐑𝗨 ☽︎';
+global.author = '𝐑𝐈𝐌𝗨𝐑𝗨';
 global.vs = 'V2 • 1.0.5'; 
-global.wm = '➳ᴹᴿ᭄𝒁𝒆𝒛𝒐➳ᴹᴿ᭄';
-global.titulowm = '☾︎ 𝒁𝒆𝒛𝒐 𝑩𝒐𝒕 ☽︎';
-global.titulowm2 = `☾︎ 𝒁𝒆𝒛𝒐 𝑩𝒐𝒕 ☽︎`
-global.igfg = '☾︎ 𝒁𝒆𝒛𝒐 𝑩𝒐𝒕 ☽︎';
+global.wm = '𝐑𝐈𝐌𝗨𝐑𝗨';
+global.titulowm = '☾︎ 𝐑𝐈𝐌𝗨𝐑𝗨 𝑩𝒐𝒕 ☽︎';
+global.titulowm2 = `☾︎ 𝐑𝐈𝐌𝗨𝐑𝗨 𝑩𝒐𝒕 ☽︎`
+global.igfg = '☾︎ 𝐑𝐈𝐌𝗨𝐑𝗨 𝑩𝒐𝒕 ☽︎';
 global.rwait ='⌛'; 
 global.done ='✅'; 
-global.wait = '*انتظر جاري التحميل....*\n*قـنـاة الـمـطـور لـمـعـرفـة كـل جـديـد*\n༺ https://whatsapp.com/channel/0029Vaflefp4Y9ljqmqllP3a ༻';
+global.wait = '*انتظر جاري التحميل....*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -45,15 +45,15 @@ global.mes = d.toLocaleDateString('ar', {month: 'long'});
 global.año = d.toLocaleDateString('ar', {year: 'numeric'});
 global.tiempo = d.toLocaleString('ar-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n☾︎ 𝒁𝒆𝒛𝒐 𝑩𝒐𝒕 ☽︎`;
-global.gt = '☾︎ 𝒁𝒆𝒛𝒐 𝑩𝒐𝒕 ☽︎';
-global.mysticbot = '☾︎ 𝒁𝒆𝒛𝒐 𝑩𝒐𝒕 ☽︎';
-global.md = '𝒁𝒆𝒛𝒐 𝑩𝒐𝒕';
-global.mysticbot = '𝒁𝒆𝒛𝒐 𝑩𝒐𝒕';
+global.wm2 = `${dia} ${fecha}\n☾︎ 𝐑𝐈𝐌𝗨𝐑𝗨 𝑩𝒐𝒕 ☽︎`;
+global.gt = '☾︎𝐑𝐈𝐌𝗨𝐑𝗨 𝑩𝒐𝒕 ☽︎';
+global.mysticbot = '☾︎ 𝐑𝐈𝐌𝗨𝐑𝗨 𝑩𝒐𝒕 ☽︎';
+global.md = '𝐑𝐈𝐌𝗨𝐑𝗨 𝑩𝒐𝒕';
+global.mysticbot ='𝐑𝐈𝐌𝗨𝐑𝗨 𝑩𝒐𝒕';
 global.waitt = '*[ ⏳ ] انتظر جاري التحميل*';
 global.waittt = '*[ ⏳ ] انتظر جاري التحميل*';
 global.waitttt = '*[ ⏳ ] انتظر جاري التحميل *';
-global.nomorown = '201508628077';
+global.nomorown = '201098956800';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
