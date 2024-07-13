@@ -148,7 +148,7 @@ loadChatgptDB();
 
 /* ------------------------------------------------*/
 
-global.authFile = `Megobot-MD`;
+global.authFile = `Zezobot-MD`;
 const {state, saveState, saveCreds} = await useMultiFileAuthState(global.authFile);
 const msgRetryCounterMap = (MessageRetryMap) => { };
 const msgRetryCounterCache = new NodeCache()
